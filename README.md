@@ -1,2 +1,2 @@
-# HomeworkLesson21-3
-link: https://lipaivalentine.github.io/HomeworkLesson21-3/
+# Parallax offset
+Offset elements when scrolling
